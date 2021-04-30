@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "d9769783-fc52-4e5d-9de6-3564251de004": {
+        "id": "d9769783-fc52-4e5d-9de6-3564251de004",
+        "parent": null,
+        "name": "SanityProject3004.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "SanityProject3004.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "SanityProject3004"
+        },
+        "triggers": [],
+        "lastUpdated": 1619783177239
+      }
+    },
+    "openFiles": [
+      "d9769783-fc52-4e5d-9de6-3564251de004"
+    ],
+    "currentFileId": "d9769783-fc52-4e5d-9de6-3564251de004",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.4",
+    "projectName": "SanityProject3004",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1619783180376
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "sanityproject3004",
+      "url": "https://github.com/HirudineeADRT/sanityproject3004"
+    }
+  }
+}
